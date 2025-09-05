@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.shellIntegration.environmentReporting": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "Power Shell"
+    ],
+    "terminal.integrated.sendKeybindingsToShell": true
+}
